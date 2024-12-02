@@ -3,7 +3,6 @@
 - 🌱 Desenvolvedor de Software | Analista de Dados
 - ✉ Contrate pelo email: Oswaldomauricio6@gmail.com
 - 📌portfolio: https://portfoliooswaldo-oswaldomauricios-projects.vercel.app/#projetos
-- 
 
 <div align="center">
   <a href="https://github.com/oswaldomauricio">
