@@ -1,7 +1,9 @@
 ### Olá, eu sou o Oswaldo Mauricio.
 
-- 🌱 Estudante de Front-End
+- 🌱 Desenvolvedor de Software | Analista de Dados
 - ✉ Contrate pelo email: Oswaldomauricio6@gmail.com
+- 📌portfolio: https://portfoliooswaldo-oswaldomauricios-projects.vercel.app/#projetos
+- 
 
 <div align="center">
   <a href="https://github.com/oswaldomauricio">
@@ -22,7 +24,6 @@
   ##
   <div> 
   <a href="https://instagram.com/oswaldomauriciio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/yvRR8W5Hec" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:oswaldomauricio6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/oswaldo-mauricio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
